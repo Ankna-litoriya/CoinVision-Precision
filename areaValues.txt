@@ -1,0 +1,14 @@
+if area < 9000:
+    totalMoney += 1
+elif 10700 < area < 10800:
+    totalMoney += 1
+elif 10500 < area < 10850:
+    totalMoney += 1
+elif 10600 < area < 10900:
+    totalMoney += 2
+elif 9000 < area < 10800:
+    totalMoney += 5
+elif 11000 < area < 12000:
+    totalMoney += 5
+elif area > 12000:
+    totalMoney += 10
